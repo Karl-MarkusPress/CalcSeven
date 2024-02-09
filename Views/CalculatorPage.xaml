@@ -33,7 +33,7 @@
             Margin="12"
             BorderColor="{StaticResource PrimaryColor}"
             BackgroundColor="#2C3240"
-            HorizontalOptions="EndAndExpand"
+            HorizontalOptions="Fill"
             VerticalOptions="EndAndExpand"
             Grid.Row="0"
             Grid.Column="0"
@@ -41,7 +41,10 @@
         >
             <Label
                 LineHeight="1.5"
+                HorizontalOptions="EndAndExpand"
                 VerticalTextAlignment="Center"
+                TextColor="White"
+                LineBreakMode="WordWrap"
                 VerticalOptions="Center">
                 <Label.FormattedText>
                     <FormattedString>

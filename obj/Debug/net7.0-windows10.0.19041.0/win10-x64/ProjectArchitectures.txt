@@ -1,1 +1,0 @@
-C:\Users\Kasutaja\source\repos\CalcSeven\CalcSeven.csproj;x64
